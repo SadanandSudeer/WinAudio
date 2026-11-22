@@ -1,0 +1,23 @@
+# Build & Packaging artifacts
+build/
+dist/
+out/
+
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
+
+# Portable runtime user data
+Data/
+config.json
+user_presets.json
+
+# OS / Editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
